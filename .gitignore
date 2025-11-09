@@ -1,0 +1,306 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as long as the script is
+#  committed the builds are repeatable, and we don't need to track these
+#  generated files:
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+lib-cov/
+
+# Grunt intermediate storage
+.grunt/
+
+# Bower dependency directory
+bower_components/
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons
+build/Release/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+dist/
+out/
+
+# Cache directories
+.cache/
+.parcel-cache/
+
+# Documentation build
+docs/build/
+
+# Local configuration
+config.local.*
+local.*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# API keys and secrets
+secrets.*
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+
+# AI/ML models and data
+models/
+*.h5
+*.pb
+*.pkl
+*.joblib
+*.model
+data/raw/
+data/processed/
+data/external/
+
+# Cloud deployment
+.terraform/
+terraform.tfstate*
+
+# Docker
+.dockerignore
+
+# Kubernetes
+*.yaml.tmp
+
+# Backup files
+*.backup
+*.bak
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Adobe files
+*.psd
+*.ai
+*.indd
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+
+# Image files (generated)
+generated_images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# Large data files
+*.csv
+*.json
+*.xml
+*.parquet
+*.feather
+*.hdf5
+
+# Documentation generated
+docs/_build/
+*.pdf
+*.docx
+*.epub
